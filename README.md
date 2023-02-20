@@ -1,8 +1,6 @@
 # Programación Competitiva UChile
 
-Este repositorio contiene el código fuente para el sitio web del grupo organizado de Programación Competitiva de la Universidad de Chile.
-
-Disponible en [este link](https://uchile.progcomp.cl) :)
+Este repositorio contiene el código fuente para el apunte del ramo CC3501 - Modelación y Computación Gráfica para Ingenieros del Departamento de Ciencias de la Computación de la Universidad de Chile.
 
 ## Cómo probar la página localmente
 
